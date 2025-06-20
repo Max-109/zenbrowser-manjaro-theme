@@ -87,6 +87,14 @@
     :root {
       --zen-dark-color-mix-base: #121212 !important;
       --background-color-box: #121212 !important;
+      --zen-colors-tertiary: #121212 !important;
+      --in-content-text-color: #ffffff !important;
+      --link-color: #34e5bb !important;
+      --link-color-hover: #4cf8cc !important;
+      --zen-colors-primary: #1e1e2e !important;
+      --in-content-box-background: #1e1e2e !important;
+      --zen-primary-color: #34e5bb !important;
+      
     }
   }
 
